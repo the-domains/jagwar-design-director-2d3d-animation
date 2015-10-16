@@ -1,6 +1,6 @@
 name: 'Jagwar, down'
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.6291113751940429
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.6696227826178074
